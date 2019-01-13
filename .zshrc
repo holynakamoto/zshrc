@@ -122,7 +122,7 @@ source $ZSH/oh-my-zsh.sh
 alias lsh='ls -lah'
 alias gd='git diff'
 alias gp='git push'
-alias gcom='git commit -m'
+alias gcom='git commit -m "update"'
 alias gsh='git show'
 alias gconf='git config -l'
 alias ga='git add'
