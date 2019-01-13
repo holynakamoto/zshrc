@@ -120,6 +120,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 
 alias lsh='ls -lah'
+alias gd='git diff'
+alias gcom='git commit -m'
 alias gsh='git show'
 alias gconf='git config -l'
 alias ga='git add'
